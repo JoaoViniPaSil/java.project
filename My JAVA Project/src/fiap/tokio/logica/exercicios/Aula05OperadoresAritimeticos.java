@@ -22,6 +22,30 @@ public class Aula05OperadoresAritimeticos {
 		
 		float resto = num1 % num2;
 		System.out.println(resto);
+		
+		//hoje eu vou jogar fut
+		
+		System.out.println("");
+		
+		int numero = 2;
+		System.out.println(++numero);
+		
+		numero = numero + 1;
+		System.out.println(numero);
+		
+		System.out.println(--numero);
+		
+		numero += 2;
+		System.out.println(numero);
+		
+		numero *= 10;
+		System.out.println(numero);
+		
+		int number = numero;
+		
+		System.out.println(number);
+		
+		number-= 27;
 
 	}
 
